@@ -6,4 +6,5 @@ yellow
 yes
 no
 
-"im changing this and it will be through stash"
+"im changing this and it will be through stash this is added text"
+"new changes from new-branch"
